@@ -1,2 +1,2 @@
 #!/bin/bas
-echo "0-hello_world"
+echo hello, world
